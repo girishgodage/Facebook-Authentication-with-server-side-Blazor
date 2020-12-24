@@ -4,7 +4,7 @@ We will learn how to implement authentication and authorization using Facebook a
 
 ## Demo
 
-![image info](/img/blazor/5/output.gif)
+![image info](https://github.com/girishgodage/girishgodage.github.io/blob/master/img/blazor/5/output.gif)
 
 ## Read full article
 
